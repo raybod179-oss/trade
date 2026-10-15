@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Disallow: /settings.html
+Disallow: /statement.html
+Disallow: /alerts.html
+
+Sitemap: https://nerkhland.vercel.app/sitemap.xml
